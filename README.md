@@ -1,8 +1,8 @@
 # intel-oneAPI
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Akatsuki-AI
+#### Problem Statement - Medical Image Processing
+#### Team Leader Email - harshpant3703@gmail.com
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
